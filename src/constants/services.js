@@ -5,7 +5,7 @@ export default [
     id: 1,
     icon: <FaCode className="service-icon" />,
     title: "android development",
-    text: `Android App development with Java and.`,
+    text: `Android App development with Java and Kotlin`,
   },
   {
     id: 2,
